@@ -1,0 +1,114 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+
+#mainCarousel {
+    width: 100%; 
+    max-width: 400px;
+    margin: auto;
+}
+
+
+.sectionLight {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+p {
+    font-size: 25px;
+}
+
+.sectionDark {
+    background-color: #ffffff;
+    padding: 2rem;
+}
+
+.coolStuffWrapper {
+    margin-top: 30px;
+}
+
+button.coolStuffBtn {
+    background-color: red;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+}
+
+h5.modal-title {
+    margin: auto;
+}
+
+.img-fluidModal {
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+
+.img-fluidLogo {
+    width: 150px;
+}
+
+.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 48.5%;
+}
+
+
+.youtube-text {
+    text-align: center;
+    padding: 5px;
+}
+
+.size {
+    padding: 20px;
+}
+
+
+.fa {
+    margin: 10px;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-google-plus-square {
+    color: #c32f10;
+}
+
+.fa-instagram {
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 767px) {
+
+    .img-fluidLogo {
+        display: block;
+        margin: auto;
+    }
+    
+    .btnCenter {
+    width: auto;
+    
+}
+}
+
+
